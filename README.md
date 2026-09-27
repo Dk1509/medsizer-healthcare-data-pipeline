@@ -111,3 +111,7 @@ Loads the healthcare records
 Converts the data into a structured table
 Converts the data into Parquet
 Uploads the processed Parquet back to S3
+
+The processed files are stored under:
+
+processed/meds-parquet/
