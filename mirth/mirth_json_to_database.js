@@ -166,4 +166,3 @@ function sqlDateTime(value) {
         dateString.replace(/'/g, "''") +
         "'";
 }
-
